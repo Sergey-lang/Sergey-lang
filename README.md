@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Sergey-lang/Sergey-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###Languages and Tools
 
-Here are some ideas to get you started:
+![React](https://img.shields.io/badge/-REACT-1e1d1f?style-for=the-badge&logo=react&)
+![Typescript](https://img.shields.io/badge/-TYPESCRIPT-1e1d1f?style-for=the-badge&logo=typescript&)
+![Redux](https://img.shields.io/badge/-REDUX-1e1d1f?style-for=the-badge&logo=redux&)
+![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-1e1d1f?style-for=the-badge&logo=javascript&)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###Follow me
+[![Linkedin](https://img.shields.io/badge/-LINKEDIN-1e1d1f?style-for=the-badge&logo=linkedin&)](https://www.linkedin.com/in/sergey-kuharyonok-702b111b7/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergey-lang&hide=stars,contribs&show_icons=true&)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergey-lang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
