@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Front-end developer with 3 years of commercial development experience. The main library for work is React and all related technologies.
+
 Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-1e1d1f?style-for=the-badge&logo=javascript&)
