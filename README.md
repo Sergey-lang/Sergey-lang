@@ -7,10 +7,9 @@ I am constantly evolving: studying application architecture and backend (Node.js
 I have worked in large teams using Scrum/Kanban and have directly interacted with clients.
 
 I use neural networks and AI tools in my work – they help me generate ideas, accelerate development, and explore new technologies. I completed a course on using AI and neural network APIs for integration.
-I have basic experience working with Vue 3 (currently learning it).
+I have basic experience working with Vue 3, Pinia, VueRouter, Nuxt
 
 I prefer remote work, but I am open to hybrid or office setups. I am also open to relocation if offered a strong opportunity.
-I work on a MacBook Pro M3 and am fully equipped for productive development.
 
 Languages and Tools
 
